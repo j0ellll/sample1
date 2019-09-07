@@ -1,6 +1,6 @@
 # sample1
 
-# master branch
+# newbranch
 other mess
 ```
 some message
